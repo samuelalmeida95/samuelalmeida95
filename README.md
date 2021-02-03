@@ -27,3 +27,6 @@ My name is Samuel and ...:
 - 😀 I really like to learn 
 - 💻 Currently studying ReactJS and NodeJS
 - 🚀 learning is continuous and there will always be a next level
+- 🏆 In search of becoming a full stack developer
+- 🎸 I like to play guitar
+- 🚲 And I also like to hike with mtb
