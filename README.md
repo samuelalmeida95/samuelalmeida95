@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:samuelvelame324@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_samuelalmeida_/)
 
-### Heloo! 👋 Welcome to my profile
+### Helloo! 👋 Welcome to my profile
 
 My name is Samuel and ...:
 
@@ -33,4 +33,4 @@ My name is Samuel and ...:
 - 🚀 My motto is: learning is continuous and there will always be a next level
 - 🏆 In search of becoming a fullStack developer
 - 🎸 I like to play guitar
-- 🚲 And I also like to pedal
+- 🚲 I also like cycling
