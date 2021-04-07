@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 # Samuel Almeida :man_technologist:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:samuelvelame324@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_samuelalmeida_/)
 
 ### Helloo! 👋 Welcome to my profile
 
@@ -34,3 +31,19 @@ My name is Samuel and ...:
 - 🏆 In search of becoming a fullStack developer
 - 🎸 I like to play guitar
 - 🚲 I also like cycling
+- 📫 How to reach me: **samuel.almeida@dcx.ufpb.br**
+-    📎 Linkedin: **https://www.linkedin.com/in/samuel-almeida-36b0921b9/**
+
+
+<br/>
+
+## Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact"/>
+</p>
+
+ 
