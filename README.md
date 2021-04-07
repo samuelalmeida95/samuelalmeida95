@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 ### Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,18 +22,18 @@ Here are some ideas to get you started:
 
 
 
-### Helloo! 👋 Welcome to my profile
+## Helloo! 👋 Welcome to my profile
 
-My name is Samuel and ...:
+### My name is Samuel and:
 
-- 😀 I really like to learn 
-- 💻 Currently studying ReactJS and SpringBoot
-- 🚀 My motto is: learning is continuous and there will always be a next level
-- 🏆 In search of becoming a fullStack developer
-- 🎸 I like to play guitar
-- 🚲 I also like cycling
-- 📫 How to reach me: **samuel.almeida@dcx.ufpb.br**
--    📎 Linkedin: **https://www.linkedin.com/in/samuel-almeida-36b0921b9/**
+### 😀 I really like to learn 
+### 💻 Currently studying ReactJS and SpringBoot
+### 🚀 My motto is: learning is continuous and there will always be a next level
+### 🏆 In search of becoming a fullStack developer
+### 🎸 I like to play guitar
+### 🚲 I also like cycling
+### 📫 How to reach me: **samuel.almeida@dcx.ufpb.br**
+###  📎 Linkedin: **https://www.linkedin.com/in/samuel-almeida-36b0921b9/**
 
 
 <br/>
