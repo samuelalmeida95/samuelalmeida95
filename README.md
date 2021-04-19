@@ -10,9 +10,9 @@
 
 
 ### 😀 I really like to learn 
-### 💻 Currently studying ReactJS and SpringBoot
+### 💻 Currently studying SpringBoot
 ### 🚀 My motto is: learning is continuous and there will always be a next level
-### 🏆 In search of becoming a fullStack developer
+### 🏆 In search of becoming a backend developer
 ### 🎸 I like to play guitar
 ### 🚲 I also like cycling
 ### 📫 How to reach me: **samuel.almeida@dcx.ufpb.br**
