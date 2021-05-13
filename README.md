@@ -4,7 +4,7 @@
 ### Helloo! 👋 Welcome to my profile
 <br/>
 
-```
+```php
 I develop with 👇
 ```
 <div align="center" > 
@@ -16,11 +16,9 @@ I develop with 👇
 </div>
 
 
-
-
 ## About
 
-```
+```php
  😀 I really like to learn 
  
  💻 Currently studying SpringBoot
@@ -36,18 +34,8 @@ I develop with 👇
  📫 How to reach me: samuel.almeida@dcx.ufpb.br
 ```
 
-
-
 <br/>
 
-## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]"/>
-  
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515"/>
-</p>
 
  
