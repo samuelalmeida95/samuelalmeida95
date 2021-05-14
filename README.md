@@ -11,6 +11,10 @@
   <img align="left" alt="Samuel Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 
+<a href="https://discord.gg/mG6rUhB9Mx">
+  <img align="left" alt="Samuel Discord" width="23px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"  />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95)
 
 <br/>
