@@ -45,8 +45,6 @@ I develop with 👇
  🎸 I like to play guitar
  
  🚲 I also like cycling 
- 
- 📫 How to reach me: samuel.almeida@dcx.ufpb.br
 ```
 
 <br/>
