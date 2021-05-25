@@ -38,9 +38,7 @@ I develop with 👇
  
  💻 Currently studying SpringBoot
  
- 🚀 My motto is: learning is continuous and there will always be a next level
- 
- 🏆 In search of becoming a backend developer
+ 🚀 In search of becoming a backend developer
  
  🎸 I like to play guitar
  
