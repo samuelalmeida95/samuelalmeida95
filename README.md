@@ -19,9 +19,11 @@
 
 <br/>
 
-```
-Estou desenvolvovendo com 👇
-```
+
+> <h3>Estou desenvolvovendo com 👇</h3>
+
+<br>
+
 <div align="center" > 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -34,19 +36,17 @@ Estou desenvolvovendo com 👇
 
 ## Sobre
 
-```
- 😀 Eu gosto muito de aprender!
+### 😀 Eu gosto muito de aprender!
  
- 💻 Atualmente estou desenvolvendo soluções em Java com SpringBoot
+### 💻 Atualmente estou desenvolvendo soluções em Java com SpringBoot
  
- 🚀 Estou sempre em busca de mais conhecimento!
+### 🚀 Estou sempre em busca de mais conhecimento!
  
- 🎸 Nas horas livres gosto de tocar Guitarra,
+### 🎸 Nas horas livres gosto de tocar Guitarra,
  
- 🚲 De andar de MTB 
+### 🚲 De andar de MTB 
  
- 🎮 E também gosto muito de jogar!
-```
+### 🎮 E também gosto muito de jogar!
 
 <br/>
 
