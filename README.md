@@ -1,7 +1,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Samuel Almeida. Nice to meet you!
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! sou Samuel Almeida, bem vindo ao meu perfil! 
 
 <a href="https://www.linkedin.com/in/samuel-almeida-36b0921b9/">
   <img align="left" alt="Samuel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -19,8 +19,8 @@
 
 <br/>
 
-```php
-I develop with 👇
+```
+Estou desenvolvovendo com 👇
 ```
 <div align="center" > 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -32,23 +32,25 @@ I develop with 👇
 </div>
 
 
-## About
+## Sobre
 
-```php
- 😀 I really like to learn 
+```
+ 😀 Eu gosto muito de aprender!
  
- 💻 Currently studying SpringBoot
+ 💻 Atualmente estou desenvolvendo soluções em Java com SpringBoot
  
- 🚀 In search of becoming a backend developer
+ 🚀 Estou sempre em busca de mais conhecimento!
  
- 🎸 I like to play guitar
+ 🎸 Nas horas livres gosto de tocar Guitarra,
  
- 🚲 I also like cycling 
+ 🚲 De andar de MTB 
+ 
+ 🎮 E também gosto muito de jogar!
 ```
 
 <br/>
 
-## My Stats
+## Minhas estatísticas
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=samuelalmeida95&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515)
