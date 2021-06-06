@@ -42,11 +42,11 @@
  
 ### 🚀 Estou sempre em busca de mais conhecimento!
  
-### 🎸 Nas horas livres gosto de tocar Guitarra,
+### 🎸 Nas horas livres gosto de tocar Guitarra 
  
-### 🚲 De andar de MTB 
+### 🚲 Curto fazer trilhas de MTB 
  
-### 🎮 E também gosto muito de jogar!
+### 🎮 Apaixonado por games! 
 
 <br/>
 
