@@ -6,7 +6,7 @@
 
 [<img align="left" alt="bilgehangecici.site" width="48px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
 
-[<img align="left" alt="bilgehangecici | Instagram" width="33px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
+[<img align="left" alt="bilgehangecici | Instagram" width="36px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
 
 [<img align="left" alt="bilgehangecici.site" width="140px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
 
