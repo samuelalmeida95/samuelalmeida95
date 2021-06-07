@@ -1,23 +1,19 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! sou Samuel Almeida!
+##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/samuel-almeida-36b0921b9/">
-  <img align="left" alt="Samuel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
-<a href="mailto:samuel.almeida@dcx.ufpb.br">
-  <img align="left" alt="Samuel Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
 
 <a href="https://discord.gg/mG6rUhB9Mx">
   <img align="left" alt="Samuel Discord" width="23px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"  />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95)
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/_samuelalmeida_/)
 
-<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95)
 
 ## Estou desenvolvendo com 👇
 
@@ -29,8 +25,6 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-
-<br/>
 
 ## Sobre
 
@@ -46,7 +40,16 @@
  
 ### 🎮 Apaixonado por games! 
 
-<br/>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy)
+
+---
 
 ## Minhas estatísticas
 
@@ -54,8 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95&theme=blue-green"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green"/>
 </div>
- 
-<br>
 
 ##
 
