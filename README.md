@@ -1,7 +1,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! sou Samuel Almeida, bem vindo ao meu perfil! 
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! sou Samuel Almeida, bem vindo ao meu perfil! <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" align="right"/>
 
 <a href="https://www.linkedin.com/in/samuel-almeida-36b0921b9/">
   <img align="left" alt="Samuel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95&theme=blue-green"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green" width=20px/>
 </div>
  
 <br>
