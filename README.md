@@ -1,7 +1,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! sou Samuel Almeida, bem vindo ao meu perfil! <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" align="right"/>
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! sou Samuel Almeida, bem vindo ao meu perfil! <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/icons-java.png" height="40" width="45" align="right"/>
 
 <a href="https://www.linkedin.com/in/samuel-almeida-36b0921b9/">
   <img align="left" alt="Samuel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
