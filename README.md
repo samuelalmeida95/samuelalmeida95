@@ -1,19 +1,17 @@
 
 
-##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
+[<img align="left" alt="bilgehangecici | LinkedIn" width="48px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
+[<img align="left" alt="bilgehangecici.site" width="48px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
 
-<a href="https://discord.gg/mG6rUhB9Mx">
-  <img align="left" alt="Samuel Discord" width="23px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"  />
-</a>
+[<img align="left" alt="bilgehangecici | Instagram" width="48px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/_samuelalmeida_/)
 
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/_samuelalmeida_/)
+[<img align="left" alt="bilgehangecici.site" width="120px" src="https://media.giphy.com/media/Leb9OuzxXcI3JlMvHR/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
 
-![](https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95)
-
+<br>
+<br>
 <br>
 
 ## Estou desenvolvendo com 👇
