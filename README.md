@@ -45,7 +45,7 @@
 
 <br>
 
-## Spotify Playing 🎧 <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+## Spotify Playing 🎧 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
 
@@ -59,6 +59,8 @@
 </div>
 
 ##
+
+<br>
 
 <div align="right">
   
