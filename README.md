@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95&theme=blue-green"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green" width=20px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green"/>
 </div>
  
 <br>
