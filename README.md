@@ -40,16 +40,11 @@
  
 ### 🎮 Apaixonado por games! 
 
+<br>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+## Spotify Playing 🎧 <img align="right" alt="GIF" height="180px" margin-top="-200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
----
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy)
-
----
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
 
 ## Minhas estatísticas
 
