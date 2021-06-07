@@ -52,7 +52,9 @@
 
 ## Minhas estatísticas
 
-![github stats](https://github-readme-stats.vercel.app/api?username=samuelalmeida95&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeida95&layout=compact&theme=blue-green"/>
+</div>
  
 
