@@ -2,13 +2,13 @@
 
 ##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="48px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
+[<img align="left" alt="bilgehangecici | LinkedIn" width="55px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
-[<img align="left" alt="bilgehangecici.site" width="48px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
+[<img align="left" alt="bilgehangecici.site" width="57px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
 
-[<img align="left" alt="bilgehangecici | Instagram" width="48px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/_samuelalmeida_/)
+[<img align="left" alt="bilgehangecici | Instagram" width="43px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
 
-[<img align="left" alt="bilgehangecici.site" width="120px" src="https://media.giphy.com/media/Leb9OuzxXcI3JlMvHR/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
+[<img align="left" alt="bilgehangecici.site" width="140px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
 
 <br>
 <br>
