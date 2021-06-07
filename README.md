@@ -1,6 +1,6 @@
 
 
-##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
+##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" alt="Seja bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="47px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
