@@ -1,6 +1,5 @@
 
 
-
 ##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
@@ -15,6 +14,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95)
 
+<br>
+
 ## Estou desenvolvendo com 👇
 
 <div align="center" > 
@@ -25,6 +26,8 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
+
+<br>
 
 ## Sobre
 
@@ -45,6 +48,8 @@
 ## Spotify Playing 🎧 <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
+
+<br>
 
 ## Minhas estatísticas
 
