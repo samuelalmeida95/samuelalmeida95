@@ -2,17 +2,16 @@
 
 ##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" alt="Seja bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="47px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
+[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
-[<img align="left" alt="bilgehangecici.site" width="48px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
 
-[<img align="left" alt="bilgehangecici | Instagram" width="36px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
+[<img align="left" alt="bilgehangecici | Instagram" width="30px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
 
-[<img align="left" alt="bilgehangecici | Facebook" width="38px" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />](https://www.facebook.com/samuka.ab.melo)
+[<img align="left" alt="bilgehangecici | Facebook" width="30px" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />](https://www.facebook.com/samuka.ab.melo)
 
-[<img align="left" alt="bilgehangecici.site" width="140px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
+[<img align="left" alt="bilgehangecici.site" width="125px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
 
-<br>
 <br>
 <br>
 
