@@ -8,11 +8,11 @@
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br)
+<!-- [<img align="left" alt="bilgehangecici.site" width="40px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br) -->
 
 [<img align="left" alt="bilgehangecici | Instagram" width="30px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
 
-[<img align="left" alt="bilgehangecici | Facebook" width="30px" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />](https://www.facebook.com/samuka.ab.melo)
+<!-- [<img align="left" alt="bilgehangecici | Facebook" width="30px" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />](https://www.facebook.com/samuka.ab.melo) -->
 
 [<img align="left" alt="bilgehangecici.site" width="125px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
 
@@ -36,10 +36,10 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
-
-### Spotify Playing 🎧 
+### Spotify Playing 🎧 <img alt="GIF" align="right" height="130px" src="https://media.giphy.com/media/vkKE4eKVdglqwqfFZ2/giphy.gif"/>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
+
 
 ##
 
