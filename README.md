@@ -36,7 +36,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
-### Spotify Playing 🎧 <img alt="GIF" align="right" height="110px" src="https://media.giphy.com/media/vkKE4eKVdglqwqfFZ2/giphy.gif"/>
+### Spotify Playing 🎧 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
 
