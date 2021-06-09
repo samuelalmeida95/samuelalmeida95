@@ -1,6 +1,10 @@
 
 
-##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" alt="Seja bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
+##  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" alt="Bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
+
+<i> Atualmente estou desenvolvendo soluções em Java com Spring-Boot, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying </i> 
+
+## Contate-me
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
@@ -26,21 +30,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-
-
-## Sobre
-
-#### 😀 Eu gosto muito de aprender!
- 
-#### <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/icons-java.png" height="25" width="25"/> Atualmente estou desenvolvendo soluções em Java com SpringBoot
- 
-#### 🚀 Estou sempre em busca de mais conhecimento!
- 
-#### 🎸 Nas horas livres gosto de tocar Guitarra 
- 
-#### 🚲 Curto fazer trilhas de MTB 
- 
-#### 🎮 Apaixonado por games! 
+<br>
 
 ##
 
