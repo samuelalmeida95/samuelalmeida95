@@ -2,7 +2,7 @@
 
 ###  Olá, sou Samuel Almeida! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> <img align="right" alt="Bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
 
-<i> Atualmente estou desenvolvendo soluções em <strong>Java com Spring-Boot</strong>, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! <strong>#neverstopplaying</strong> </i> 
+<i> <strong> Atualmente estou desenvolvendo soluções em Java com Spring-Boot, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
 
 ##
 
