@@ -7,7 +7,7 @@
 
 ##
 
-### Contate-me 📝
+### <i>Contate-me 📝</i>
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
 
@@ -23,7 +23,7 @@
 
 ##
 
-### Estou desenvolvendo com 🛠
+### <i>Estou desenvolvendo com 🛠</i>
 
 <div align="center" > 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -38,14 +38,14 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
-### Spotify Playing 🎧 
+### <i>Spotify Playing 🎧</i> 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
 
 
 ##
 
-### Minhas estatísticas 🏆
+### <i>Minhas estatísticas 🏆</i>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelalmeida95&theme=blue-green"/>
