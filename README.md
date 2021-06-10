@@ -16,7 +16,7 @@
 
 <!-- [<img align="left" alt="bilgehangecici | Facebook" width="30px" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />](https://www.facebook.com/samuka.ab.melo) -->
 
-[<img align="left" alt="bilgehangecici.site" width="125px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
+[<img align="left" alt="bilgehangecici.site" width="125px" src="https://media.giphy.com/media/Leb9OuzxXcI3JlMvHR/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
 
 <br>
 
