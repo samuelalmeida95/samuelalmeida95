@@ -35,7 +35,7 @@
 
 ##
 
-<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+<img align="right" alt="GIF" height="148px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ### <i>Spotify Playing 🎧</i> 
 
