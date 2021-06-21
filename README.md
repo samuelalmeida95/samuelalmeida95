@@ -4,8 +4,8 @@
 
 <img
 	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
-	width="400px"
-	height="390px"
+	width="370px"
+	height="330px"
 	align="right"
 />
 
