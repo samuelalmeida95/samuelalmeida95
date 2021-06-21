@@ -78,6 +78,8 @@
 
 ##
 
+</br>
+
 <img
 	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
 	width="200px"
