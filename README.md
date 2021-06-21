@@ -59,6 +59,8 @@
 
 ##
 
+<br>
+
 <div>
     <img align="right" alt="Bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
 </div>
