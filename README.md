@@ -2,6 +2,13 @@
 
 ###  <i>Olá, sou Samuel Almeida!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> 
 
+<img
+	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
+	width="400px"
+	height="390px"
+	align="right"
+/>
+
 <i> <strong> Atualmente estou desenvolvendo soluções em Java com Spring-Boot, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
 
 ##
@@ -28,9 +35,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
 ##
@@ -71,4 +76,21 @@
   <img src="https://img.shields.io/badge/Me Pergunte%20sobre-SPRING BOOT-248232.svg" align="right"/>
     
 </div>
+
+</br>
+</br>
+
+##
+
+<img
+	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"
+/>
+
+### Frases que eu digo para mim mesmo:
+
+ - ***Se você pode sonhar, você pode alcançar.***
+ - ***Algo só é impossível até que seja feito.***
 
