@@ -28,9 +28,12 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/dbeaver_img.png" width="77px"/>
     <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</div>
+
+<div align="center" > 
+    <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/dbeaver_img.png" width="77px"/>
     <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/eclipse_img.png" width="69px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
