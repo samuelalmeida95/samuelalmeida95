@@ -2,7 +2,7 @@
 
 ###  <i>Olá, sou Samuel Almeida!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> 
 
-<i> <strong> Atualmente estou desenvolvendo soluções em Java com Spring-Boot, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
+<i> <strong> Atualmente estou desenvolvendo soluções fullStack com Spring-Boot no backend e Angular no frontend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
 
 ##
 
@@ -28,14 +28,18 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    
 </div>
 
 <div align="center" > 
     <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/dbeaver_img.png" width="80px"/>
     <img src="https://github.com/samuelalmeida95/samuelalmeida95/blob/main/eclipse_img.png" width="69px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
 ##
