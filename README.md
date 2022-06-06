@@ -1,6 +1,6 @@
 ##
 
-###  <i>Olá, sou Samuel Almeida!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> 
+###  <i>Olá, sou Samuel Almeida!</i> 🚀
 
 <i> <strong> Atualmente estou desenvolvendo soluções com Spring-Boot no backend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
 
@@ -8,15 +8,15 @@
 
 ### <i>Contate-me 📝</i>
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)
+ [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="bilgehangecici | LinkedIn"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/) 
 
-<!-- [<img align="left" alt="bilgehangecici.site" width="40px" src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" />](mailto:samuel.almeida@dcx.ufpb.br) -->
+ [<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bilgehangecici.site" />](mailto:samuel.almeida@dcx.ufpb.br) 
 
-[<img align="left" alt="bilgehangecici | Instagram" width="32px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif" />](https://www.instagram.com/_samuelalmeida_/)
+ [<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bilgehangecici | Instagram" />](https://www.instagram.com/_samuelalmeida_/) 
 
-<!-- [<img align="left" alt="bilgehangecici | Facebook" width="30px" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />](https://www.facebook.com/samuka.ab.melo) -->
+[<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="bilgehangecici | Facebook" />](https://www.facebook.com/samuka.ab.melo) 
 
-[<img align="left" alt="bilgehangecici.site" width="125px" src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif"/>](https://discord.gg/mG6rUhB9Mx)
+ [<img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="bilgehangecici.site" width="125px"/>](https://discord.gg/mG6rUhB9Mx)
 
 <br>
 
