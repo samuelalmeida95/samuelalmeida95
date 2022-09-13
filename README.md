@@ -16,7 +16,7 @@
 
 [<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="bilgehangecici | Facebook" />](https://www.facebook.com/samuka.ab.melo) 
 
- [<img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="bilgehangecici.site" width="100px"/>](https://discord.gg/mG6rUhB9Mx)
+ [<img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="bilgehangecici.site" width="90px"/>](https://discord.gg/mG6rUhB9Mx)
 
 <br>
 
