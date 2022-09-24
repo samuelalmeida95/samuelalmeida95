@@ -2,7 +2,7 @@
 
 ###  <i>Olá, sou Samuel Almeida!</i> 🚀
 
-<i> <strong> Atualmente estou desenvolvendo soluções com Spring-Boot no backend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
+<i> <strong> Atualmente estou desenvolvendo soluções com Spring-Boot e Java EE(PrimeFaces) no backend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
 
 ##
 
