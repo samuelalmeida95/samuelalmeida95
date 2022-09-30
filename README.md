@@ -2,9 +2,8 @@
 
 ###  <i>Olá, sou Samuel Almeida!</i> 🚀
 
-<i> <strong> Atualmente estou desenvolvendo soluções com Spring-Boot e Java EE(PrimeFaces) no backend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top! #neverstopplaying</strong> </i> 
-<br/>   
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+<i> <strong> Atualmente estou desenvolvendo soluções com Spring-Boot e Java EE(PrimeFaces) no backend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top com pizza! #neverstopplaying</strong> </i> 
+
 ##
 
 ### <i>Contate-me 📝</i>
