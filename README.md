@@ -9,10 +9,6 @@
 ### <i>Contate-me 📝</i>
  [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="bilgehangecici | LinkedIn"/>](https://www.linkedin.com/in/samuel-almeida-36b0921b9/)  
 
- [<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bilgehangecici | Instagram" />](https://www.instagram.com/_samuelalmeida_/) 
-
-[<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="bilgehangecici | Facebook" />](https://www.facebook.com/samuka.ab.melo) 
-
 <br>
 
 ##
